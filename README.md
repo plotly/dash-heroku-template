@@ -15,3 +15,7 @@ Delete the runtime.txt if you wish to run on Python 2.7.x instead of 3.6.x
 
 Do NOT rename or delete any other file in this folder (except this README) or else your
 app will not setup properly.
+
+## Other Resources
+
+Automatic deployment can be achieved by using [DashTools](https://github.com/andrew-hossack/dash-tools) CLI. Install dashtools with `pip install dashtools` and run the `dashtools heroku --deploy` command to deploy your app, or `dashtools heroku --update` to update it.
