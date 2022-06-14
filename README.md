@@ -18,4 +18,4 @@ app will not setup properly.
 
 ## Other Resources
 
-Automatic deployment can be achieved by using [DashTools](https://github.com/andrew-hossack/dash-tools) CLI. Install dashtools and run the `dashtools heroku --deploy` command to deploy your app, or `dashtools heroku --update` to update it.
+Automatic deployment can be achieved by using [DashTools](https://github.com/andrew-hossack/dash-tools) CLI. Install dashtools with `pip install dashtools` and run the `dashtools heroku --deploy` command to deploy your app, or `dashtools heroku --update` to update it.
